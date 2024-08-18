@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contract Analysis</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <nav class="navbar navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href=".">Contract Analysis</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div class="nav-item dropdown ms-auto" role="group" aria-label="Toggle dark mode" title="Toggle Dark Mode">
+          <button class="dark-theme-toggle btn btn-outline-light dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Toggle theme (auto)">
+            <i class="bi bi-circle-half"></i> <span class="d-lg-none ms-2">Toggle theme</span>
+          </button>
+          <ul class="dropdown-menu dropdown-menu-end">
+            <li><button class="dropdown-item" data-bs-theme-value="light"><i class="me-2 bi bi-sun-fill"></i> Light</button></li>
+            <li><button class="dropdown-item" data-bs-theme-value="dark"><i class="me-2 bi bi-moon-stars-fill"></i> Dark</button></li>
+            <li><button class="dropdown-item" data-bs-theme-value="auto"><i class="me-2 bi bi-circle-half"></i> Auto</button></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container-fluid">
+    <h1 class="display-1 my-4 text-center">Contract Analysis</h1>
+    <h2 class="display-6 text-center">What risks do contracts carry?</h2>
+    <div class="mx-auto my-3 narrative">
+      <p>In complex legal agreements, <strong>identifying contract risks</strong> is critical. For example, a publisher would want to make sure their contracts cover terms such as</p>
+      <ol>
+        <li>Breach of contract</li>
+        <li>Deadlines and delay consequence</li>
+        <li>Copyright ownership and permissions</li>
+        <li>Quality and standards</li>
+        <li>... and many more.</li>
+      </ol>
+      <p>Contract Analysis streamlines this process. We identify which terms are present in a contract document, <strong>flagging potential omissions</strong> or areas of concern.</p>
+      <p>This helps legal professionals, contract managers, and businesses mitigate risk and ensure comprehensive contractual coverage.</p>
+      <p>Contract Analysis uses</p>
+      <ul>
+        <li><strong>Private LLMs</strong>. Data stays in the Straive tenant and no models are trained on it.</li>
+        <li><strong>Function calling</strong> to ensure that every term is rigorously evaluated.</li>
+        <li><strong>Ground-truthing</strong> by extracting verbatim sections of the contract as proof.</li>
+      </ul>
+      <p>Here's an evaluation of 25 contracts between a publisher and their authors on 21 different contract terms.</p>
+    </div>
+
+    <div id="chord" class="container my-3"></div>
+
+    <div id="terms-table" class="table-responsive"></div>
+
+    <div class="mx-auto narrative">
+      <p>These terms are very well covered:</p>
+      <ul>
+        <li><strong>Deadlines and delay consequence</strong> — 25 / 25 contracts</li>
+        <li><strong>Copyright ownership and permissions</strong> — 25 / 25 contracts</li>
+        <li><strong>Intellectual property</strong> — 25 / 25 contracts</li>
+        <li><strong>Royalty payments and dispute resolution processes</strong> — 25 / 25 contracts</li>
+      </ul>
+      <p><strong>Editor approval rights over cover and design</strong> has the poorest coverage — 1 / 25 contracts</p>
+    </div>
+
+    <div class="mx-auto my-3 narrative">
+      <p>Here are the details of which terms are present in which contract.<br><strong>Click on the cells to see the references.</strong></p>
+    </div>
+
+    <div id="result-table" class="table-responsive"></div>
+
+    <div class="mx-auto narrative">
+      <p><a class="fw-bold" href="author-contracts/contract-12.pdf">contract-12.pdf</a> has the best coverage — 19 / 21 terms</p>
+      <p><a class="fw-bold" href="author-contracts/contract-1.pdf">contract-1.pdf</a> has the poorest coverage — 7 / 21 terms</p>
+      <h2 class="h4 text-danger mt-5">The results are imperfect</h2>
+      <p>There are 2 kinds of mistakes the model might make.</p>
+      <ul>
+        <li><strong>Miss terms</strong>. It at least one example, <em>Force Majeure</em> was missed though the contract said, <em><q>The Publisher will not be under an obligation to publish the Work if, in its reasonable
+        judgment, circumstances beyond its control adversely affect the Work’s marketability or potential sale</q></em>. We might need to re-word the term better.</li>
+        <li><strong>Hallucinate snippets</strong>. The model guesses section numbers and may occasionally guess the snippet text as well instead of copying.</li>
+      </ul>
+      <p><strong>Humans in the loop are critical.</strong> This can help flag off potential misses, but it's important to validate the results.</p>
+    </div>
+
+    <hr class="my-5">
+    <h2 class="display-6 text-center my-5">Analyze your own contracts</h2>
+    <div class="mx-auto my-3 narrative">
+      <p>Pick a <strong>contract</strong> or paste your own. Change the <strong>terms</strong>.</p>
+      <p>Click <kbd>Analyze</kbd> to see which terms are covered in which contract.</p>
+    </div>
+
+    <form id="contract-form" class="my-3">
+      <div class="row">
+        <div class="col-md">
+          <div class="d-flex justify-content-between align-items-center">
+            <label class="form-label fw-bold me-2" for="contract">Contract</label>
+            <div class="mb-2">
+              <label for="contract-file" class="form-label visually-hidden">Contract file</label>
+              <select id="contract-file" name="contract-file" class="form-select" aria-label="Default select example"></select>
+            </div>
+          </div>
+          <textarea class="form-control" rows="10" id="contract" name="contract" placeholder="Enter text of the contract." required minlength="100"></textarea>
+        </div>
+        <div class="col-md">
+          <div class="d-flex justify-content-between align-items-center">
+            <label class="form-label fw-bold me-2" for="terms">Terms to check <span class="text-muted small fw-normal">(one per line)</span></label>
+            <div class="mb-2" style="visibility: hidden">
+              <label for="term-set" class="form-label visually-hidden">Term set</label>
+              <select id="term-set" name="term-set" class="form-select" aria-label="Default select example"></select>
+            </div>
+          </div>
+          <textarea class="form-control font-monospace" rows="10" id="terms" name="terms" placeholder="Enter contract terms to check, one per line"></textarea>
+        </div>
+      </div>
+      <div id="analyze" class="text-center my-5"></div>
+    </form>
+    <div id="analysis-table" class="table-responsive"></div>
+  </div>
+
+  <footer class="my-5 vh-100 d-flex align-items-center justify-content-center">
+    <h1 class="display-4">Designed by <a href="https://gramener.com/" class="text-reset link-offset-3 link-underline link-underline-opacity-25">Gramener</a></h1>
+  </footer>
+
+  <div class="modal" tabindex="-1" id="snippet-modal">
+    <div class="modal-dialog">
+      <div class="modal-content" id="snippet-modal">
+        <div class="modal-header">
+          <h5 class="modal-title" id="snippet-modal-title"></h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body" id="snippet-modal-body"></div>
+      </div>
+    </div>
+  </div>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" type="module"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@gramex/ui@0.3/dist/dark-theme.js" type="module"></script>
+  <script src="script.js" type="module"></script>
+</body>
+
+</html>

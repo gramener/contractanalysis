@@ -1,0 +1,45 @@
+.narrative {
+  max-width: 40rem;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.table .selected-cell {
+  background-color: var(--bs-body-color);
+}
+
+/* Style the chord diagram */
+#chord {
+  /* Keep font slightly small to avoid long contract filenames going too far out */
+  text {
+    font-size: 0.8rem;
+  }
+
+  /* A slight transparency shows reds and greens through each other */
+  path {
+    fill-opacity: 0.5;
+  }
+
+  /* When hovering over a chord, we enter focus mode */
+  .focus-mode {
+    /* By default, hide everything */
+    path,
+    text {
+      fill-opacity: 0.05;
+    }
+
+    /* ... except the active chord */
+    path.active,
+    text.active {
+      fill-opacity: 1;
+    }
+  }
+}
+
+@media (max-width: 1200px) {
+  .doc-name {
+    max-width: 20rem;
+  }
+}

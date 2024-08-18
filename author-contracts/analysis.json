@@ -1,0 +1,1661 @@
+{
+  "terms": [
+    "Breach of contract",
+    "Deadlines and delay consequence",
+    "Copyright ownership and permissions",
+    "Quality and standards",
+    "Terms on author's personal or professional conduct",
+    "Hidden or additional costs",
+    "Non-compete agreement",
+    "Intellectual property",
+    "Force majeure",
+    "Royalty payments and dispute resolution processes",
+    "Conditions for termination of the contract",
+    "Distribution rights and territories",
+    "Confidentiality to protect sensitive information",
+    "Disparaging statements and reputational risk",
+    "Editors can audit publisher's financial records",
+    "Marketing and promotion",
+    "Publisher first refusal rights on future works",
+    "Advance repayment conditions",
+    "Reversal of rights to editor",
+    "Editor approval rights over cover and design",
+    "Translations and adaptations of the work"
+  ],
+  "matches": {
+    "contract-1.pdf": {
+      "Breach of contract": null,
+      "Deadlines and delay consequence": [
+        "2.2",
+        "The Author shall deliver the completed manuscript of the Work to the Publisher within six (6) months from the date of this Agreement."
+      ],
+      "Copyright ownership and permissions": [
+        "4.1",
+        "The Author shall retain the copyright to the Work."
+      ],
+      "Quality and standards": null,
+      "Terms on author's personal or professional conduct": null,
+      "Hidden or additional costs": null,
+      "Non-compete agreement": [
+        "8.1",
+        "The Author shall not publish any competing work on the same subject matter as the Work for a period of two (2) years from the date of publication of the Work."
+      ],
+      "Intellectual property": [
+        "12.1",
+        "The Author warrants that the Work is original and does not infringe on any copyright or other intellectual property rights."
+      ],
+      "Force majeure": null,
+      "Royalty payments and dispute resolution processes": [
+        "5.1",
+        "The Author shall receive a royalty of 10% of the net sales of the Work."
+      ],
+      "Conditions for termination of the contract": [
+        "14.1",
+        "Either Party may terminate this Agreement upon written notice to the other Party or in case the Publisher deems a situation as infringement of agreement."
+      ],
+      "Distribution rights and territories": [
+        "1.1",
+        "The Author grants to the Publisher the exclusive right to publish the Work in all languages and formats, including but not limited to print, digital, and audiobook formats."
+      ],
+      "Confidentiality to protect sensitive information": null,
+      "Disparaging statements and reputational risk": null,
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": null,
+      "Publisher first refusal rights on future works": null,
+      "Advance repayment conditions": null,
+      "Reversal of rights to editor": null,
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": null
+    },
+    "contract-2.pdf": {
+      "Breach of contract": [
+        "2.1",
+        "If the Author does not deliver the complete and final materials for the Work by the Due Date, the Publisher may terminate this Agreement and recover any monies paid"
+      ],
+      "Deadlines and delay consequence": [
+        "2.1",
+        "The Author shall deliver the complete and final materials for the Work by July 1, 2023, as set forth in the Schedule (the 'Due Date'), time being of the essence"
+      ],
+      "Copyright ownership and permissions": [
+        "1.1",
+        "The Author assigns to the Publisher during the full term of copyright and all extensions thereof the entire copyright in the Work"
+      ],
+      "Quality and standards": [
+        "2.2",
+        "If the Publisher determines that the materials for the Work are not, in the Publisher's judgment, complete and satisfactory, the Publisher may request changes that would make the materials satisfactory"
+      ],
+      "Terms on author's personal or professional conduct": null,
+      "Hidden or additional costs": null,
+      "Non-compete agreement": [
+        "5",
+        "The Author shall not, without the Publisher's prior written consent, publish or permit any third party to publish the Work or any portion thereof or any other version, revision or derivative work based thereon"
+      ],
+      "Intellectual property": [
+        "1.1",
+        "The Author assigns to the Publisher during the full term of copyright and all extensions thereof the entire copyright in the Work"
+      ],
+      "Force majeure": [
+        "3.2",
+        "The Publisher will not be under an obligation to publish the Work if, in its reasonable judgment, circumstances beyond its control adversely affect the Work's marketability or potential sales"
+      ],
+      "Royalty payments and dispute resolution processes": [
+        "4.1",
+        "The Publisher shall pay to the Author, as a royalty, the following percentages of the Publisher's 'Net Receipts'"
+      ],
+      "Conditions for termination of the contract": [
+        "8",
+        "The Publisher may terminate this Agreement if the Author fails to deliver the materials by the Due Date or if the materials are not satisfactory"
+      ],
+      "Distribution rights and territories": [
+        "1.1",
+        "throughout the world, to print, store, copy, publish, republish, adapt, distribute and transmit the Work in English and in other languages"
+      ],
+      "Confidentiality to protect sensitive information": null,
+      "Disparaging statements and reputational risk": null,
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": [
+        "1.2",
+        "The Publisher shall have the right to use the name, likeness, and biographical data of the Author on any edition of the Work or on any derivative work thereof, and in advertising, publicity or promotion related thereto"
+      ],
+      "Publisher first refusal rights on future works": [
+        "7",
+        "The Author shall submit a proposal for the Author's next 'book-length' work to the Publisher before offering it elsewhere"
+      ],
+      "Advance repayment conditions": [
+        "2.1",
+        "If the Author does not deliver the complete and final materials for the Work by the Due Date, the Publisher may terminate this Agreement and recover any monies paid"
+      ],
+      "Reversal of rights to editor": [
+        "8",
+        "Upon termination, the Publisher shall revert all rights to the Author"
+      ],
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": [
+        "1.1",
+        "to print, store, copy, publish, republish, adapt, distribute and transmit the Work in English and in other languages"
+      ]
+    },
+    "contract-3.pdf": {
+      "Breach of contract": null,
+      "Deadlines and delay consequence": [
+        "2. (a)",
+        "The Author shall prepare and deliver the complete and final materials for the Work ... by June 15, 2023, as set forth in the Schedule (the 'Due Date'), time being of the essence, unless the Publisher has agreed to extend the time in writing."
+      ],
+      "Copyright ownership and permissions": [
+        "1. (a)",
+        "The Author assigns to the Publisher during the full term of copyright and all extensions thereof the entire copyright in the Work ..."
+      ],
+      "Quality and standards": null,
+      "Terms on author's personal or professional conduct": null,
+      "Hidden or additional costs": null,
+      "Non-compete agreement": [
+        "8. (a)",
+        "Until the Work is no longer commercially available as defined in Paragraph 15, the Author shall not, without the Publisher's prior written consent, publish or permit any third party to publish the Work or any portion thereof ..."
+      ],
+      "Intellectual property": [
+        "1. (b)",
+        "All rights in and to the 'Appearance of the Work' ... will belong to the Publisher."
+      ],
+      "Force majeure": null,
+      "Royalty payments and dispute resolution processes": [
+        "5. (a)",
+        "The Publisher shall pay to the Author, as a royalty, the following percentages of the Publisher's 'Net Receipts' ..."
+      ],
+      "Conditions for termination of the contract": null,
+      "Distribution rights and territories": [
+        "1. (a)",
+        "... throughout the world, to print, store, copy, publish, republish, adapt, distribute and transmit the Work in English and in other languages, in all media of expression now known or later developed, and to license or permit others to do so."
+      ],
+      "Confidentiality to protect sensitive information": null,
+      "Disparaging statements and reputational risk": null,
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": [
+        "3. (b)",
+        "The Author acknowledges and agrees that content from the Work may be used for marketing purposes. The Author further agrees to provide reasonable marketing assistance upon request of the Publisher."
+      ],
+      "Publisher first refusal rights on future works": [
+        "10.",
+        "The Author shall submit to the Publisher a proposal with a table of contents or complete materials for the Author's next 'book-length' work ..."
+      ],
+      "Advance repayment conditions": null,
+      "Reversal of rights to editor": null,
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": [
+        "1. (a)",
+        "... to print, store, copy, publish, republish, adapt, distribute and transmit the Work in English and in other languages, in all media of expression now known or later developed, and to license or permit others to do so."
+      ]
+    },
+    "contract-4.pdf": {
+      "Breach of contract": [
+        "2",
+        "If the Author fails to deliver the manuscript or make requested changes, the Publisher may terminate this Agreement."
+      ],
+      "Deadlines and delay consequence": [
+        "2",
+        "The Author shall deliver the complete and final manuscript of the Work, satisfactory to the Publisher, by August 1, 2023."
+      ],
+      "Copyright ownership and permissions": [
+        "1",
+        "The Author hereby grants and assigns to the Publisher during the full term of copyright and all extensions thereof the exclusive right to publish, distribute, and sell the work."
+      ],
+      "Quality and standards": null,
+      "Terms on author's personal or professional conduct": null,
+      "Hidden or additional costs": null,
+      "Non-compete agreement": null,
+      "Intellectual property": [
+        "1",
+        "This grant includes the right to create derivative works and to license subsidiary rights."
+      ],
+      "Force majeure": null,
+      "Royalty payments and dispute resolution processes": [
+        "4",
+        "The Publisher shall pay the Author royalties as follows: (a) 15% of net receipts from sales of hardcover editions in the U.S. and Canada."
+      ],
+      "Conditions for termination of the contract": [
+        "8",
+        "The Publisher may terminate this Agreement if the Author fails to deliver the manuscript or make requested changes, or if publication would result in legal liability."
+      ],
+      "Distribution rights and territories": [
+        "1",
+        "The exclusive right to publish, distribute, and sell the work ... in all languages and formats, including print, electronic, audio, and any other media now known or later developed."
+      ],
+      "Confidentiality to protect sensitive information": null,
+      "Disparaging statements and reputational risk": null,
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": [
+        "3",
+        "The Publisher shall have sole discretion over the format, design, pricing, and marketing of the Work."
+      ],
+      "Publisher first refusal rights on future works": [
+        "7",
+        "The Author shall submit the next book-length work to the Publisher for consideration before offering it elsewhere."
+      ],
+      "Advance repayment conditions": null,
+      "Reversal of rights to editor": [
+        "8",
+        "Upon termination, rights revert to the Author, subject to the Publisher's right to sell existing inventory."
+      ],
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": [
+        "1",
+        "The exclusive right to publish, distribute, and sell the work ... in all languages and formats, including print, electronic, audio, and any other media now known or later developed."
+      ]
+    },
+    "contract-5.pdf": {
+      "Breach of contract": [
+        "2.5",
+        "If the Author does not deliver satisfactory materials by the Due Date, the Publisher may complete the Work and charge the costs to any sums due to the Author, or terminate this Agreement and recover any monies paid."
+      ],
+      "Deadlines and delay consequence": [
+        "2.1",
+        "The Author shall deliver the complete and final materials, including supplementary materials and third-party permissions, as detailed in the Schedule (\"Schedule\"), satisfactory in organization, form, content, and style by April 1, 2024 (the \"Due Date\"), unless extended in writing by the Publisher."
+      ],
+      "Copyright ownership and permissions": [
+        "1.1",
+        "The Author grants to the Publisher during the full term of copyright and all extensions thereof the entire copyright in the Work, including any supplementary materials, updates, revised editions, and derivative works based on it, including but not limited to the right to print, store, copy, publish, republish, adapt, distribute, and transmit the Work in English and other languages, in all media now known or later developed, and to license or permit others to do so."
+      ],
+      "Quality and standards": [
+        "2.1",
+        "The Author shall deliver the complete and final materials, including supplementary materials and third-party permissions, as detailed in the Schedule (\"Schedule\"), satisfactory in organization, form, content, and style by April 1, 2024 (the \"Due Date\"), unless extended in writing by the Publisher."
+      ],
+      "Terms on author's personal or professional conduct": null,
+      "Hidden or additional costs": [
+        "2.2",
+        "If any permissions or other materials due from the Author are paid for by the Publisher, the Publisher may withhold an amount equal to such costs from any sums due to the Author."
+      ],
+      "Non-compete agreement": [
+        "8.1",
+        "Until the Work is no longer commercially available, the Author shall not publish or permit any third party to publish any competing work."
+      ],
+      "Intellectual property": [
+        "1.2",
+        "All rights in and to the \"Appearance of the Work\" (including design, typography, paper, printing, binding, cover, jacket, and embellishments for the Work, and the design, typography, and layout for digital versions) and in the title, series titles, and all intellectual property rights of whatever nature in the Appearance of the Work and in the title shall belong to the Publisher."
+      ],
+      "Force majeure": [
+        "18.11",
+        "Force majeure events entitle the affected Party to a reasonable extension for performance. Either Party may terminate in the event of a continued force majeure for over 180 days."
+      ],
+      "Royalty payments and dispute resolution processes": [
+        "5.1",
+        "The Publisher shall pay the Author the following royalties on the Publisher's Net Receipts: (1) Hardcover sales in the United States and Canada: (i) 15% on the first 10,000 units; (ii) 17% on units 10,001 to 20,000; (iii) 20% on all units thereafter."
+      ],
+      "Conditions for termination of the contract": [
+        "14.2",
+        "The Publisher may terminate this Agreement if the Author fails to deliver satisfactory materials, if publication may result in legal liability, if market conditions change, or if the Author loses their professional license."
+      ],
+      "Distribution rights and territories": [
+        "1.1",
+        "The Author grants to the Publisher during the full term of copyright and all extensions thereof the entire copyright in the Work, including any supplementary materials, updates, revised editions, and derivative works based on it, including but not limited to the right to print, store, copy, publish, republish, adapt, distribute, and transmit the Work in English and other languages, in all media now known or later developed, and to license or permit others to do so."
+      ],
+      "Confidentiality to protect sensitive information": [
+        "18.4",
+        "The Parties shall not disclose the terms of this Agreement without prior written consent."
+      ],
+      "Disparaging statements and reputational risk": null,
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": [
+        "3.2",
+        "The Publisher may use content from the Work for marketing purposes and the Author agrees to provide reasonable marketing assistance upon request."
+      ],
+      "Publisher first refusal rights on future works": [
+        "10.1",
+        "The Author shall submit a proposal for their next work to the Publisher before offering it to others. The Publisher shall notify the Author within 60 days if it wishes to publish the next work, and the Parties shall negotiate terms in good faith."
+      ],
+      "Advance repayment conditions": null,
+      "Reversal of rights to editor": [
+        "15.1",
+        "If the Publisher decides that the Work is no longer commercially available, it shall revert all rights to the Author after 6 months."
+      ],
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": [
+        "1.1",
+        "The Author grants to the Publisher during the full term of copyright and all extensions thereof the entire copyright in the Work, including any supplementary materials, updates, revised editions, and derivative works based on it, including but not limited to the right to print, store, copy, publish, republish, adapt, distribute, and transmit the Work in English and other languages, in all media now known or later developed, and to license or permit others to do so."
+      ]
+    },
+    "contract-6.pdf": {
+      "Breach of contract": [
+        "Delivery",
+        "The Publisher may terminate if materials are unsatisfactory."
+      ],
+      "Deadlines and delay consequence": [
+        "Delivery",
+        "The Author shall deliver the complete and final materials for the Work by May 22, 2023."
+      ],
+      "Copyright ownership and permissions": [
+        "Rights",
+        "The Author assigns the entire copyright in the Work to the Publisher."
+      ],
+      "Quality and standards": [
+        "Delivery",
+        "The Publisher may terminate if materials are unsatisfactory."
+      ],
+      "Terms on author's personal or professional conduct": null,
+      "Hidden or additional costs": null,
+      "Non-compete agreement": [
+        "Competing Works",
+        "The Author cannot publish competing works without the Publisher's consent, but may use limited excerpts."
+      ],
+      "Intellectual property": [
+        "Rights",
+        "The Author retains patent rights in processes described in the Work."
+      ],
+      "Force majeure": null,
+      "Royalty payments and dispute resolution processes": [
+        "Royalties",
+        "The Publisher shall pay royalties ranging from 5-18% of Net Receipts, depending on format and territory."
+      ],
+      "Conditions for termination of the contract": [
+        "Termination",
+        "The Parties may terminate the agreement under certain conditions, with rights reverting to the Author."
+      ],
+      "Distribution rights and territories": null,
+      "Confidentiality to protect sensitive information": null,
+      "Disparaging statements and reputational risk": null,
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": null,
+      "Publisher first refusal rights on future works": [
+        "Option",
+        "The Author must submit the next \"book-length\" work to the Publisher before offering it elsewhere."
+      ],
+      "Advance repayment conditions": null,
+      "Reversal of rights to editor": [
+        "Termination",
+        "The Parties may terminate the agreement under certain conditions, with rights reverting to the Author."
+      ],
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": null
+    },
+    "contract-7.pdf": {
+      "Breach of contract": [
+        "2",
+        "If the Author fails to deliver a satisfactory manuscript, the Publisher may terminate this Agreement."
+      ],
+      "Deadlines and delay consequence": [
+        "2",
+        "The Author shall deliver the complete and satisfactory manuscript of the Work to the Publisher by September 1, 2023."
+      ],
+      "Copyright ownership and permissions": [
+        "1",
+        "The Author hereby grants and assigns to the Publisher during the full term of copyright and all extensions thereof the entire copyright and all other rights of whatsoever nature in the work."
+      ],
+      "Quality and standards": [
+        "2",
+        "The Publisher shall have 60 days to review the manuscript and notify the Author of any changes required to make it satisfactory."
+      ],
+      "Terms on author's personal or professional conduct": [
+        "7",
+        "if the Author's professional license is revoked."
+      ],
+      "Hidden or additional costs": null,
+      "Non-compete agreement": [
+        "5",
+        "the Author shall not publish or assist in the publication of any other work with substantially the same content without the Publisher's prior written consent."
+      ],
+      "Intellectual property": [
+        "1",
+        "The Author hereby grants and assigns to the Publisher during the full term of copyright and all extensions thereof the entire copyright and all other rights of whatsoever nature in the work."
+      ],
+      "Force majeure": null,
+      "Royalty payments and dispute resolution processes": [
+        "4",
+        "The Publisher shall pay the Author royalties as follows: (a) 15% of net receipts on the first 10,000 copies sold in the US and Canada; (b) 18% of net receipts on all additional copies sold in the US and Canada; (c) 7.5% of net receipts on all copies sold outside the US and Canada; (d) 50% of net receipts from licensing subsidiary rights."
+      ],
+      "Conditions for termination of the contract": [
+        "7",
+        "The Publisher may terminate this Agreement if the Author fails to deliver a satisfactory manuscript, if publication would result in legal liability, or if the Author's professional license is revoked."
+      ],
+      "Distribution rights and territories": [
+        "1",
+        "including but not limited to the right to print, publish, reproduce, distribute, transmit, display, sell, license, and create derivative works of the Work in any and all languages and formats, whether now known or later developed."
+      ],
+      "Confidentiality to protect sensitive information": null,
+      "Disparaging statements and reputational risk": null,
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": [
+        "3",
+        "The Author shall provide reasonable marketing assistance as requested."
+      ],
+      "Publisher first refusal rights on future works": null,
+      "Advance repayment conditions": null,
+      "Reversal of rights to editor": [
+        "7",
+        "Upon termination, rights revert to the Author."
+      ],
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": [
+        "1",
+        "including but not limited to the right to print, publish, reproduce, distribute, transmit, display, sell, license, and create derivative works of the Work in any and all languages and formats, whether now known or later developed."
+      ]
+    },
+    "contract-8.pdf": {
+      "Breach of contract": [
+        "Termination",
+        "The Publisher may terminate the Agreement if the Author fails to deliver satisfactory materials, or if publication may result in legal liability."
+      ],
+      "Deadlines and delay consequence": [
+        "Delivery of Materials",
+        "The Author shall deliver the complete and final materials for the Work by June 1, 2023. The Publisher will notify the Author within 60 days whether the materials are satisfactory. If not, the Author shall make requested changes."
+      ],
+      "Copyright ownership and permissions": [
+        "Rights",
+        "The Author assigns to the Publisher the entire copyright in the Work, including any supplementary materials, updates, revised editions and derivative works."
+      ],
+      "Quality and standards": null,
+      "Terms on author's personal or professional conduct": null,
+      "Hidden or additional costs": null,
+      "Non-compete agreement": [
+        "Competing Works",
+        "Until the Work is no longer commercially available, the Author shall not publish or assist in preparing any other work with the same or substantially the same content without the Publisher's consent."
+      ],
+      "Intellectual property": [
+        "Rights",
+        "The Author assigns to the Publisher the entire copyright in the Work, including any supplementary materials, updates, revised editions and derivative works."
+      ],
+      "Force majeure": null,
+      "Royalty payments and dispute resolution processes": [
+        "Royalties",
+        "The Publisher shall pay the Author royalties of 15% on the first 10,000 units sold, and 18% on all units thereafter, based on the Publisher's net receipts."
+      ],
+      "Conditions for termination of the contract": [
+        "Termination",
+        "The Publisher may terminate the Agreement if the Author fails to deliver satisfactory materials, or if publication may result in legal liability."
+      ],
+      "Distribution rights and territories": [
+        "Rights",
+        "The Publisher has the right to print, store, copy, publish, republish, adapt, distribute and transmit the Work in all media and languages."
+      ],
+      "Confidentiality to protect sensitive information": null,
+      "Disparaging statements and reputational risk": null,
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": null,
+      "Publisher first refusal rights on future works": [
+        "Option",
+        "The Author shall submit a proposal for the Author's next \"book-length\" work to the Publisher before offering it elsewhere. The Publisher has an option to publish the Next Work."
+      ],
+      "Advance repayment conditions": null,
+      "Reversal of rights to editor": [
+        "Termination",
+        "Upon termination, rights revert to the Author."
+      ],
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": [
+        "Rights",
+        "The Publisher has the right to print, store, copy, publish, republish, adapt, distribute and transmit the Work in all media and languages."
+      ]
+    },
+    "contract-9.pdf": {
+      "Breach of contract": [
+        "14(b)",
+        "The Publisher may terminate immediately by notice in writing for failure to deliver materials, potential legal liabilities, market condition changes, or if the Author's actions cause damage to the Publisher's reputation."
+      ],
+      "Deadlines and delay consequence": [
+        "2(a)",
+        "The Author shall deliver the complete and final materials for the Work as detailed on the attached Schedule of Deliverables ... by November 30, 2023"
+      ],
+      "Copyright ownership and permissions": [
+        "1(a)",
+        "The Author assigns to the Publisher during the full term of copyright and all extensions thereof the entire copyright in the Work"
+      ],
+      "Quality and standards": [
+        "2(d)",
+        "If the Author has not delivered complete and satisfactory materials for the Work by the Due Date, the Publisher may terminate this Agreement"
+      ],
+      "Terms on author's personal or professional conduct": null,
+      "Hidden or additional costs": [
+        "2(b)",
+        "If any permissions or other materials due from the Author are furnished or paid for by the Publisher, Publisher may withhold an amount equal to such costs from any sums due to the Author"
+      ],
+      "Non-compete agreement": [
+        "8(a)",
+        "Until the Work is no longer commercially available, the Author shall not publish or permit any third party to publish the Work or any portion thereof without the Publisher's prior written consent."
+      ],
+      "Intellectual property": [
+        "1(b)",
+        "All rights in the 'Appearance of the Work' and in the title, series titles, including trademark, service mark or trade dress rights, and all intellectual property rights in the Appearance of the Work and in the title, will belong to the Publisher."
+      ],
+      "Force majeure": [
+        "18(k)",
+        "Delays due to force majeure will entitle the affected Party to a reasonable extension. Either Party may terminate the Agreement after 180 days of force majeure."
+      ],
+      "Royalty payments and dispute resolution processes": [
+        "5(a)",
+        "The Publisher shall pay to the Author, as a royalty, the following percentages of the Publisher's 'Net Receipts' from sales or licenses of the Work"
+      ],
+      "Conditions for termination of the contract": [
+        "14(a)",
+        "The Author may terminate this Agreement if the Publisher does not reply to a request for changes within the specified period."
+      ],
+      "Distribution rights and territories": [
+        "1(a)",
+        "The Author assigns to the Publisher during the full term of copyright and all extensions thereof the entire copyright in the Work, including any supplementary materials, updates, revised editions, and any derivative works, throughout the world"
+      ],
+      "Confidentiality to protect sensitive information": null,
+      "Disparaging statements and reputational risk": null,
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": [
+        "3(b)",
+        "The Author acknowledges and agrees that content from the Work may be used for marketing purposes and that the Author will provide reasonable marketing assistance upon request."
+      ],
+      "Publisher first refusal rights on future works": [
+        "10",
+        "The Author shall submit a proposal for the next 'book-length' work to the Publisher before offering rights to any other publisher."
+      ],
+      "Advance repayment conditions": null,
+      "Reversal of rights to editor": [
+        "15",
+        "If the Publisher decides the Work is no longer commercially available and does not make it so within 6 months of a written request, rights will revert to the Author."
+      ],
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": null
+    },
+    "contract-10.pdf": {
+      "Breach of contract": [
+        "14. (b)",
+        "The Publisher may terminate the Agreement if the Author fails to deliver satisfactory materials"
+      ],
+      "Deadlines and delay consequence": [
+        "2. (f)",
+        "Failure to deliver satisfactory materials by the Due Date allows the Publisher to terminate the Agreement"
+      ],
+      "Copyright ownership and permissions": [
+        "1. (a)",
+        "The Author assigns to the Publisher, during the full term of copyright and all extensions thereof, the entire copyright in the Work"
+      ],
+      "Quality and standards": [
+        "2. (a)",
+        "The Author shall deliver the complete and final materials for the Work, satisfactory in organization, form, content, and style"
+      ],
+      "Terms on author's personal or professional conduct": null,
+      "Hidden or additional costs": [
+        "2. (c)",
+        "Non-compliant fonts will be fixed at the Author's expense"
+      ],
+      "Non-compete agreement": [
+        "8. (a)",
+        "The Author shall not publish any competing work without the Publisher's consent while the Work is commercially available"
+      ],
+      "Intellectual property": [
+        "1. (b)",
+        "All rights in the 'Appearance of the Work' (including design, typography, layout, and cover) and all intellectual property rights related to the Appearance of the Work and title will belong to the Publisher"
+      ],
+      "Force majeure": [
+        "18. (k)",
+        "Neither Party's delay or failure to perform due to force majeure will be deemed a breach"
+      ],
+      "Royalty payments and dispute resolution processes": [
+        "5. (a)",
+        "The Publisher shall pay royalties based on the Publisher's 'Net Receipts' from sales or licenses of the Work"
+      ],
+      "Conditions for termination of the contract": [
+        "14. (a)",
+        "The Author may terminate the Agreement if the Publisher fails to respond to a request for changes"
+      ],
+      "Distribution rights and territories": null,
+      "Confidentiality to protect sensitive information": [
+        "18. (d)",
+        "The Parties shall not disclose the terms of this Agreement to third parties without consent"
+      ],
+      "Disparaging statements and reputational risk": null,
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": [
+        "3. (b)",
+        "Content from the Work may be used for marketing purposes"
+      ],
+      "Publisher first refusal rights on future works": [
+        "10",
+        "The Author shall submit a proposal for their next book-length work to the Publisher before offering it to others"
+      ],
+      "Advance repayment conditions": [
+        "14. (d)",
+        "Upon termination by the Publisher, the Author shall repay any advances"
+      ],
+      "Reversal of rights to editor": [
+        "14. (c)",
+        "Upon termination by the Author, rights revert to the Author"
+      ],
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": null
+    },
+    "contract-11.pdf": {
+      "Breach of contract": [
+        "2.4",
+        "Failure to do so may result in termination of this Agreement."
+      ],
+      "Deadlines and delay consequence": [
+        "2.6",
+        "If the materials are not delivered by the Due Date, the Publisher may terminate the Agreement and recover any monies paid."
+      ],
+      "Copyright ownership and permissions": [
+        "1.1",
+        "The Author hereby assigns to the Publisher during the full term of copyright and all extensions thereof the entire copyright in the Work, including any supplementary materials, updates, revised editions, and derivative works."
+      ],
+      "Quality and standards": [
+        "2.1",
+        "The Author shall deliver the complete and final materials for the Work, as described and detailed in the attached specification/schedule (the \"Schedule\"), satisfactory to the Publisher in organization, form, content, and style by October 15, 2023, unless an extension is agreed in writing."
+      ],
+      "Terms on author's personal or professional conduct": null,
+      "Hidden or additional costs": [
+        "2.2",
+        "If the Publisher incurs costs for permissions, it may deduct such costs from any sums due to the Author."
+      ],
+      "Non-compete agreement": [
+        "8.1",
+        "The Author shall not publish competing works until the Work is no longer commercially available."
+      ],
+      "Intellectual property": [
+        "1.2",
+        "All rights in the \"Appearance of the Work\" (including the design, typography, paper, binding, cover, jacket, and digital layout) and all intellectual property rights will belong to the Publisher."
+      ],
+      "Force majeure": [
+        "18.11",
+        "Force majeure events may excuse performance delays, with termination rights after 180 days."
+      ],
+      "Royalty payments and dispute resolution processes": [
+        "5.1",
+        "The Publisher shall pay the Author royalties based on the Publisher's \"Net Receipts\" from sales or licenses of the Work: • Hardcover: 15% on the first 10,000 units, 18% thereafter.  Trade paperback: 15% on the first 10,000 units, 18% thereafter.  Foreign sales: 7.5%.  Electronic form: 18%.  Lower priced editions: 7.5%.  Sales at high discounts: 5%.  On-demand sales: 5%.  Subsidiary rights: 50% if licensed to third parties, 7.5% if undertaken by the Publisher.  Adaptations and derivative works: 7.5%."
+      ],
+      "Conditions for termination of the contract": [
+        "14.2",
+        "The Publisher may terminate for failure to deliver materials, potential legal liability, adverse market changes, or damage to the Publisher's reputation."
+      ],
+      "Distribution rights and territories": [
+        "1.1",
+        "This includes, but is not limited to, the right to print, store, copy, publish, republish, adapt, distribute, and transmit the Work in English and other languages, in all media now known or later developed, and to license others to do so."
+      ],
+      "Confidentiality to protect sensitive information": [
+        "18.4",
+        "Confidentiality must be maintained, except for disclosures to professional advisors, subsidiaries, affiliates, and subcontractors."
+      ],
+      "Disparaging statements and reputational risk": [
+        "14.2",
+        "The Publisher may terminate for failure to deliver materials, potential legal liability, adverse market changes, or damage to the Publisher's reputation."
+      ],
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": [
+        "3.2",
+        "The Author agrees to provide reasonable marketing assistance and acknowledges that content from the Work may be used for marketing purposes."
+      ],
+      "Publisher first refusal rights on future works": [
+        "10.1",
+        "The Author must submit a proposal for their next book-length work to the Publisher before offering it to others."
+      ],
+      "Advance repayment conditions": [
+        "14.4",
+        "Upon termination for other reasons, the Author must repay advances, and rights will revert to the Author."
+      ],
+      "Reversal of rights to editor": [
+        "14.3",
+        "Upon termination by the Author or due to adverse market conditions, rights will revert to the Author."
+      ],
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": [
+        "1.1",
+        "This includes, but is not limited to, the right to print, store, copy, publish, republish, adapt, distribute, and transmit the Work in English and other languages, in all media now known or later developed, and to license others to do so."
+      ]
+    },
+    "contract-12.pdf": {
+      "Breach of contract": [
+        "14.2",
+        "The Publisher may terminate the Agreement if the Author fails to deliver satisfactory materials, if publication poses legal risks, if market conditions change, or if the Author's conduct damages the Publisher's reputation."
+      ],
+      "Deadlines and delay consequence": [
+        "2.6",
+        "If the Author fails to deliver satisfactory materials by the Due Date, the Publisher may complete the Work at the Author's cost or terminate the Agreement and recover any payments made."
+      ],
+      "Copyright ownership and permissions": [
+        "1.1",
+        "The Author assigns to the Publisher during the full term of copyright and all extensions thereof, the entire copyright in the Work, which includes any supplementary materials, updates, revised editions, and derivative works based on it."
+      ],
+      "Quality and standards": [
+        "2.4",
+        "The Publisher shall notify the Author within 60 days of delivery if the materials are satisfactory or request changes. If the Author does not make the changes within 30 days, the Publisher may terminate the Agreement or make the materials satisfactory at the Author's cost."
+      ],
+      "Terms on author's personal or professional conduct": [
+        "14.2",
+        "The Publisher may terminate the Agreement if the Author fails to deliver satisfactory materials, if publication poses legal risks, if market conditions change, or if the Author's conduct damages the Publisher's reputation."
+      ],
+      "Hidden or additional costs": [
+        "2.9",
+        "The Publisher covers the cost of the Author's alterations up to 10% of the original typesetting and artwork production costs. Beyond this, costs are the Author's responsibility."
+      ],
+      "Non-compete agreement": [
+        "8.1",
+        "Until the Work is no longer commercially available, the Author shall not publish any competing works without the Publisher's consent. Scholarly articles are permitted with credit given to the Work and Publisher."
+      ],
+      "Intellectual property": [
+        "1.2",
+        "The Publisher shall have all rights to the 'Appearance of the Work', including design, typography, paper, printing, binding, cover, jacket, embellishments, and digital versions. All intellectual property rights in the Appearance and title of the Work will belong to the Publisher."
+      ],
+      "Force majeure": [
+        "18.11",
+        "Neither Party is liable for delays or failures due to force majeure events. Either Party may terminate the Agreement if the event continues beyond 180 days."
+      ],
+      "Royalty payments and dispute resolution processes": [
+        "5.1",
+        "The Publisher shall pay the Author royalties as a percentage of Net Receipts: Hardcover: 15% on the first 10,000 units; 17.5% on units 10,001 to 20,000; 20% on all units thereafter."
+      ],
+      "Conditions for termination of the contract": [
+        "14.1",
+        "The Author may terminate the Agreement if the Publisher does not respond to a status update request."
+      ],
+      "Distribution rights and territories": [
+        "1.1",
+        "This includes the right to print, store, copy, publish, republish, adapt, distribute, and transmit the Work globally, in all media now known or later developed, and to license others to do so."
+      ],
+      "Confidentiality to protect sensitive information": [
+        "18.4",
+        "The terms of this Agreement are confidential."
+      ],
+      "Disparaging statements and reputational risk": [
+        "14.2",
+        "The Publisher may terminate the Agreement if the Author fails to deliver satisfactory materials, if publication poses legal risks, if market conditions change, or if the Author's conduct damages the Publisher's reputation."
+      ],
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": [
+        "3.2",
+        "The Author agrees to provide reasonable marketing assistance upon the Publisher's request."
+      ],
+      "Publisher first refusal rights on future works": [
+        "10.1",
+        "The Author shall submit a proposal for their next 'book-length' work to the Publisher before offering rights to others. The Publisher has 60 days to decide whether to publish it."
+      ],
+      "Advance repayment conditions": [
+        "14.4",
+        "Upon termination by the Publisher, the Author shall repay advances, and rights revert to the Author. The Publisher may complete the Work with third parties and apportion royalties."
+      ],
+      "Reversal of rights to editor": [
+        "14.3",
+        "Upon termination by the Author, rights revert to the Author, and payments received are retained as liquidated damages."
+      ],
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": [
+        "1.1",
+        "This includes the right to print, store, copy, publish, republish, adapt, distribute, and transmit the Work globally, in all media now known or later developed, and to license others to do so."
+      ]
+    },
+    "contract-13.pdf": {
+      "Breach of contract": [
+        "2.4",
+        "The Author must make requested changes within 30 days or the Publisher may terminate the Agreement or make the material complete at the Author's expense."
+      ],
+      "Deadlines and delay consequence": [
+        "2.6",
+        "The Publisher may terminate the Agreement if materials are not delivered by the Due Date or make other arrangements to complete the Work."
+      ],
+      "Copyright ownership and permissions": [
+        "1.1",
+        "The Author assigns to the Publisher for the full term of copyright and all extensions thereof the entire copyright in the Work, including any supplementary materials, updates, revised editions, and derivative works."
+      ],
+      "Quality and standards": [
+        "2.1",
+        "The Author shall deliver the complete and final materials for the Work as described in the attached Schedule, satisfactory to the Publisher in organization, form, content, and style by June 30, 2024 (the 'Due Date')."
+      ],
+      "Terms on author's personal or professional conduct": [
+        "12.2",
+        "The Publisher may terminate for failure to deliver satisfactory materials, legal liability, adverse market conditions, or Author's professional misconduct."
+      ],
+      "Hidden or additional costs": [
+        "2.9",
+        "The Publisher will cover costs for Author's alterations up to 10% of typesetting and production costs; the Author will cover costs beyond that."
+      ],
+      "Non-compete agreement": [
+        "8.1",
+        "The Author shall not publish or permit any competing work without Publisher's consent."
+      ],
+      "Intellectual property": [
+        "1.1",
+        "The Author assigns to the Publisher for the full term of copyright and all extensions thereof the entire copyright in the Work, including any supplementary materials, updates, revised editions, and derivative works."
+      ],
+      "Force majeure": [
+        "16.11",
+        "Force majeure events extend performance time. If lasting over 180 days, the Agreement may be terminated."
+      ],
+      "Royalty payments and dispute resolution processes": [
+        "5.1",
+        "The Publisher shall pay royalties based on the Publisher's 'Net Receipts' from sales or licenses: (a) 15% on the first 10,000 units, 17.5% on units 10,001 to 20,000, and 20% on all units thereafter for hardcover editions in the US and Canada."
+      ],
+      "Conditions for termination of the contract": [
+        "12.2",
+        "The Publisher may terminate for failure to deliver satisfactory materials, legal liability, adverse market conditions, or Author's professional misconduct."
+      ],
+      "Distribution rights and territories": [
+        "1.1",
+        "The Publisher has the exclusive right worldwide to print, store, copy, publish, republish, adapt, distribute, and transmit the Work in all media, and to license others to do so."
+      ],
+      "Confidentiality to protect sensitive information": [
+        "16.4",
+        "Confidentiality agreements apply, except disclosures to professional advisors or as required by law."
+      ],
+      "Disparaging statements and reputational risk": null,
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": [
+        "3.2",
+        "The Author agrees that the Work may be used for marketing purposes and will provide reasonable marketing assistance upon request."
+      ],
+      "Publisher first refusal rights on future works": [
+        "9.1",
+        "The Author must submit the Next Work proposal to the Publisher who has 60 days to decide whether to publish."
+      ],
+      "Advance repayment conditions": [
+        "12.3",
+        "Rights revert to the Author upon termination, and advances may need to be repaid."
+      ],
+      "Reversal of rights to editor": [
+        "12.3",
+        "Rights revert to the Author upon termination, and advances may need to be repaid."
+      ],
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": [
+        "1.1",
+        "The Publisher has the exclusive right worldwide to print, store, copy, publish, republish, adapt, distribute, and transmit the Work in all media, and to license others to do so."
+      ]
+    },
+    "contract-14.pdf": {
+      "Breach of contract": [
+        "14.2 (b) (ii)",
+        "if in the Publisher's judgment, the Author is not meeting their obligations or performing their duties as outlined in this Agreement"
+      ],
+      "Deadlines and delay consequence": [
+        "2.1 (a) (ii)",
+        "Prepare and submit to the Publisher the final manuscript on or before 1 May 2024"
+      ],
+      "Copyright ownership and permissions": [
+        "1.1 (a)",
+        "The Author assigns to the Publisher during the full term of copyright and all extensions thereof the entire copyright and all other rights"
+      ],
+      "Quality and standards": [
+        "2.1 (a) (iii)",
+        "Review each Chapter, make or request revisions as the Publisher thinks appropriate"
+      ],
+      "Terms on author's personal or professional conduct": [
+        "14.2 (b) (v)",
+        "if the Author loses their professional license as a result of disciplinary proceedings"
+      ],
+      "Hidden or additional costs": null,
+      "Non-compete agreement": [
+        "8.2 (b)",
+        "The Author shall not, without the Publisher's prior written consent, prepare or assist in the preparation of any other work with the same or substantially the same content"
+      ],
+      "Intellectual property": [
+        "1.2 (b)",
+        "All rights in and to the 'Appearance of the Work' (including the design, typography, and layout of the Work)"
+      ],
+      "Force majeure": null,
+      "Royalty payments and dispute resolution processes": [
+        "5.1 (a)",
+        "The Publisher shall pay to the Author, as a royalty, the following percentages of the Publisher's 'Net Receipts'"
+      ],
+      "Conditions for termination of the contract": [
+        "14.2 (b) (i)",
+        "if the Author fails to deliver the Work pursuant to Paragraph 2.1(a) above"
+      ],
+      "Distribution rights and territories": [
+        "1.1 (a)",
+        "throughout the world, to print, store, copy, publish, republish, adapt, distribute, and transmit the Work in English and in other languages"
+      ],
+      "Confidentiality to protect sensitive information": null,
+      "Disparaging statements and reputational risk": [
+        "14.2 (b) (v)",
+        "if the Author loses their professional license as a result of disciplinary proceedings or acts in such a way as to cause or threatens to cause damage to the reputation of the Publisher"
+      ],
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": [
+        "3.2 (b)",
+        "The Author shall provide reasonable marketing assistance upon request of the Publisher"
+      ],
+      "Publisher first refusal rights on future works": null,
+      "Advance repayment conditions": [
+        "3.3 (c)",
+        "If the Author places such reverted Work with another publisher, the Author shall provide written notice and repay any advances to the Publisher"
+      ],
+      "Reversal of rights to editor": [
+        "3.3 (c) (ii)",
+        "all rights in the Work granted by the Author to the Publisher hereunder will revert to the Author"
+      ],
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": [
+        "1.1 (a)",
+        "to print, store, copy, publish, republish, adapt, distribute, and transmit the Work in English and in other languages"
+      ]
+    },
+    "contract-15.pdf": {
+      "Breach of contract": [
+        "9.1",
+        "Either Party may terminate this Agreement by written notice if the other Party commits a material breach which is incapable of cure or has not been cured within 60 days of receipt of written notice."
+      ],
+      "Deadlines and delay consequence": [
+        "2.1.2",
+        "submit the final manuscript to the Publisher by 30th June 2024"
+      ],
+      "Copyright ownership and permissions": [
+        "1.1",
+        "The Author assigns to the Publisher during the full term of copyright and all extensions thereof the entire copyright and all other rights in and to: the products of the Author's services provided to the Publisher under this Agreement"
+      ],
+      "Quality and standards": [
+        "2.1.6",
+        "prepare and deliver the complete and final materials in satisfactory form, content, and style in accordance with the Publisher's guidelines by the agreed due date"
+      ],
+      "Terms on author's personal or professional conduct": null,
+      "Hidden or additional costs": null,
+      "Non-compete agreement": [
+        "8.2",
+        "The Author shall not prepare any other work with similar content aimed at the same audience without the Publisher's prior written consent."
+      ],
+      "Intellectual property": [
+        "1.1.2",
+        "the Author's contribution to the Work, including any supplementary materials, updates, and any derivative works based on it, including but not limited to the right to print, store, copy, publish, republish, adapt, distribute, and transmit the Work in English and in other languages, in all media of expression now known or later developed, and to license or permit others to do so."
+      ],
+      "Force majeure": [
+        "3.3",
+        "The Publisher is not obligated to publish the Work if circumstances beyond its control adversely affect the marketability or potential sales."
+      ],
+      "Royalty payments and dispute resolution processes": [
+        "5.1.1",
+        "10% of Net Receipts from sales or licenses of the original edition"
+      ],
+      "Conditions for termination of the contract": [
+        "9.1",
+        "Either Party may terminate this Agreement by written notice if the other Party commits a material breach which is incapable of cure or has not been cured within 60 days of receipt of written notice."
+      ],
+      "Distribution rights and territories": [
+        "1.1.2",
+        "the right to print, store, copy, publish, republish, adapt, distribute, and transmit the Work in English and in other languages, in all media of expression now known or later developed, and to license or permit others to do so."
+      ],
+      "Confidentiality to protect sensitive information": null,
+      "Disparaging statements and reputational risk": null,
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": [
+        "3.2",
+        "The Author shall provide reasonable marketing assistance upon the Publisher's request."
+      ],
+      "Publisher first refusal rights on future works": null,
+      "Advance repayment conditions": [
+        "9.2",
+        "Upon termination, the Publisher shall revert all rights to the Author and the Author shall repay any advances received."
+      ],
+      "Reversal of rights to editor": [
+        "9.2",
+        "Upon termination, the Publisher shall revert all rights to the Author and the Author shall repay any advances received."
+      ],
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": [
+        "1.1.2",
+        "the right to print, store, copy, publish, republish, adapt, distribute, and transmit the Work in English and in other languages, in all media of expression now known or later developed, and to license or permit others to do so."
+      ]
+    },
+    "contract-16.pdf": {
+      "Breach of contract": [
+        "2.4",
+        "If Heather Jensen fails to deliver the complete and satisfactory manuscript by the Due Date, Summit Publications, Inc. may terminate this Agreement and recover any advances paid."
+      ],
+      "Deadlines and delay consequence": [
+        "2.1",
+        "Heather Jensen agrees to deliver the complete and final manuscript of the Work by March 1, 2024 (the \"Due Date\")"
+      ],
+      "Copyright ownership and permissions": [
+        "1.1",
+        "Heather Jensen hereby grants to Summit Publications, Inc. the exclusive right to print, publish, distribute, and sell the Work in all languages and formats throughout the world during the full term of copyright and any extensions thereof."
+      ],
+      "Quality and standards": [
+        "2.1",
+        "Heather Jensen agrees to deliver the complete and final manuscript of the Work by March 1, 2024 (the \"Due Date\"), satisfactory to Summit Publications, Inc. in form, content, and style."
+      ],
+      "Terms on author's personal or professional conduct": null,
+      "Hidden or additional costs": null,
+      "Non-compete agreement": null,
+      "Intellectual property": [
+        "1.4",
+        "Heather Jensen retains all proprietary rights other than copyright, such as patent rights, in any process, procedure, or article of manufacture described in the Work."
+      ],
+      "Force majeure": null,
+      "Royalty payments and dispute resolution processes": [
+        "4.1",
+        "Summit Publications, Inc. shall pay Heather Jensen a royalty of 10% of the \"Net Receipts\" from sales of the Work in print and electronic formats."
+      ],
+      "Conditions for termination of the contract": [
+        "7.1",
+        "Heather Jensen may terminate this Agreement if Summit Publications, Inc. fails to publish the Work within 18 months of acceptance of the final manuscript."
+      ],
+      "Distribution rights and territories": [
+        "1.1",
+        "Heather Jensen hereby grants to Summit Publications, Inc. the exclusive right to print, publish, distribute, and sell the Work in all languages and formats throughout the world during the full term of copyright and any extensions thereof."
+      ],
+      "Confidentiality to protect sensitive information": null,
+      "Disparaging statements and reputational risk": null,
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": [
+        "3.3",
+        "Heather Jensen shall provide reasonable marketing assistance upon request."
+      ],
+      "Publisher first refusal rights on future works": null,
+      "Advance repayment conditions": [
+        "2.4",
+        "If Heather Jensen fails to deliver the complete and satisfactory manuscript by the Due Date, Summit Publications, Inc. may terminate this Agreement and recover any advances paid."
+      ],
+      "Reversal of rights to editor": null,
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": [
+        "1.2",
+        "Summit Publications, Inc. shall have the right to license, reproduce, adapt, and distribute the Work in all media, including electronic and digital formats, now known or later developed."
+      ]
+    },
+    "contract-17.pdf": {
+      "Breach of contract": [
+        "14.2",
+        "The Publisher may terminate for unsatisfactory materials, legal liability, adverse market changes, or professional misconduct."
+      ],
+      "Deadlines and delay consequence": [
+        "2.1",
+        "The Author shall deliver the complete and final materials by 1st September 2024, satisfactory in form, content, and style to the Publisher."
+      ],
+      "Copyright ownership and permissions": [
+        "1.1",
+        "The Author assigns to the Publisher the entire copyright in the Work for the full term of copyright and all extensions thereof, including the right to print, store, copy, publish, republish, adapt, distribute, and transmit the Work worldwide in all media, and to license others to do so."
+      ],
+      "Quality and standards": [
+        "2.1",
+        "The Author shall deliver the complete and final materials by 1st September 2024, satisfactory in form, content, and style to the Publisher."
+      ],
+      "Terms on author's personal or professional conduct": [
+        "14.2",
+        "The Publisher may terminate for unsatisfactory materials, legal liability, adverse market changes, or professional misconduct."
+      ],
+      "Hidden or additional costs": [
+        "2.6",
+        "The Publisher will cover costs for alterations up to 10% of typesetting costs; costs thereafter are the Author's responsibility."
+      ],
+      "Non-compete agreement": [
+        "8.1",
+        "The Author shall not publish any competing work until the Work is no longer commercially available."
+      ],
+      "Intellectual property": [
+        "1.3",
+        "The Author retains all proprietary rights other than copyright, such as patent rights, in any process, procedure, or article of manufacture described in the Work."
+      ],
+      "Force majeure": [
+        "18.6",
+        "Neither Party is liable for delays due to circumstances beyond control."
+      ],
+      "Royalty payments and dispute resolution processes": [
+        "5.1",
+        "The Publisher shall pay the Author royalties based on Net Receipts: 10% for print sales, 10% for electronic sales, 5% for heavily discounted sales, 50% for subsidiary rights."
+      ],
+      "Conditions for termination of the contract": [
+        "14.2",
+        "The Publisher may terminate for unsatisfactory materials, legal liability, adverse market changes, or professional misconduct."
+      ],
+      "Distribution rights and territories": [
+        "1.1",
+        "The Author assigns to the Publisher the entire copyright in the Work for the full term of copyright and all extensions thereof, including the right to print, store, copy, publish, republish, adapt, distribute, and transmit the Work worldwide in all media, and to license others to do so."
+      ],
+      "Confidentiality to protect sensitive information": [
+        "18.4",
+        "Terms of this Agreement are confidential."
+      ],
+      "Disparaging statements and reputational risk": null,
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": [
+        "3.2",
+        "The Author shall provide reasonable marketing assistance upon request."
+      ],
+      "Publisher first refusal rights on future works": [
+        "10.1",
+        "The Author shall offer the Publisher the first option to publish the next book-length work."
+      ],
+      "Advance repayment conditions": null,
+      "Reversal of rights to editor": [
+        "15.1",
+        "If the Work is no longer commercially available, the rights will revert to the Author."
+      ],
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": [
+        "1.1",
+        "The Author assigns to the Publisher the entire copyright in the Work for the full term of copyright and all extensions thereof, including the right to print, store, copy, publish, republish, adapt, distribute, and transmit the Work worldwide in all media, and to license others to do so."
+      ]
+    },
+    "contract-18.pdf": {
+      "Breach of contract": [
+        "13.1",
+        "The Author may terminate if the Publisher fails to respond to change requests."
+      ],
+      "Deadlines and delay consequence": [
+        "2.1",
+        "If the Author fails to deliver satisfactory materials by the Due Date, the Publisher may complete the Work at the Author's expense or terminate the Agreement."
+      ],
+      "Copyright ownership and permissions": [
+        "1.1",
+        "The Author assigns to the Publisher the entire copyright in the Work during the full term of copyright and any extensions thereof."
+      ],
+      "Quality and standards": [
+        "2.1",
+        "The Author shall deliver the complete and final materials for the Work satisfactory to the Publisher by 1st August 2024 (\"Due Date\")."
+      ],
+      "Terms on author's personal or professional conduct": null,
+      "Hidden or additional costs": [
+        "2.1",
+        "The Author shall obtain written permission for any third-party material included in the Work, submitting all permissions with the final materials."
+      ],
+      "Non-compete agreement": [
+        "7.1",
+        "The Author shall not publish or permit the publication of competing works without the Publisher's consent."
+      ],
+      "Intellectual property": [
+        "1.1",
+        "The Author assigns to the Publisher the entire copyright in the Work during the full term of copyright and any extensions thereof."
+      ],
+      "Force majeure": [
+        "16.1",
+        "Neither Party is liable for delays due to force majeure events."
+      ],
+      "Royalty payments and dispute resolution processes": [
+        "5.1",
+        "The Publisher shall pay the Author the following royalty percentages from Net Receipts: (i) 10% from print sales."
+      ],
+      "Conditions for termination of the contract": [
+        "13.1",
+        "The Author may terminate if the Publisher fails to respond to change requests."
+      ],
+      "Distribution rights and territories": null,
+      "Confidentiality to protect sensitive information": [
+        "16.1",
+        "The terms of this Agreement are confidential."
+      ],
+      "Disparaging statements and reputational risk": [
+        "13.1",
+        "The Publisher may terminate for failure to deliver satisfactory materials, potential legal liabilities, adverse market conditions, or damage to reputation."
+      ],
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": [
+        "3.1",
+        "The Author shall assist with marketing upon request."
+      ],
+      "Publisher first refusal rights on future works": [
+        "9.1",
+        "The Author shall offer the Publisher the next book-length work before offering it to others."
+      ],
+      "Advance repayment conditions": [
+        "13.1",
+        "Upon termination, rights revert to the Author, and any advances must be repaid."
+      ],
+      "Reversal of rights to editor": [
+        "13.1",
+        "Upon termination, rights revert to the Author, and any advances must be repaid."
+      ],
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": null
+    },
+    "contract-19.pdf": {
+      "Breach of contract": [
+        "14.2",
+        "The Publisher may terminate the Agreement if the Author fails to deliver satisfactory materials, if publication may result in legal liability, or if market conditions change."
+      ],
+      "Deadlines and delay consequence": [
+        "2.6",
+        "If the Author fails to deliver satisfactory materials by the Due Date, the Publisher may make other arrangements to complete the Work or terminate this Agreement and recover any monies paid to the Author."
+      ],
+      "Copyright ownership and permissions": [
+        "1.1",
+        "The Author assigns to the Publisher during the full term of copyright and all extensions thereof the entire copyright in the Work, including any supplementary materials, updates, revised editions, and any derivative works based on it."
+      ],
+      "Quality and standards": [
+        "2.10",
+        "The Author agrees to make all amendments required by the Publisher to make the Work suitable for its intended audience and market."
+      ],
+      "Terms on author's personal or professional conduct": null,
+      "Hidden or additional costs": [
+        "2.12",
+        "The Author shall deliver the final index with the corrected proofs. If unable, the Publisher may commission another person to prepare it at the Author's expense."
+      ],
+      "Non-compete agreement": [
+        "8.1",
+        "Until the Work is no longer commercially available, the Author shall not publish or permit any third party to publish the Work or any derivative work without the Publisher's prior written consent."
+      ],
+      "Intellectual property": [
+        "1.3",
+        "The Author retains all proprietary rights other than copyright, such as patent rights, in any process, procedure, or article of manufacture described in the Work."
+      ],
+      "Force majeure": [
+        "18.11",
+        "Neither Party's delay or failure due to force majeure will be a breach of the Agreement."
+      ],
+      "Royalty payments and dispute resolution processes": [
+        "5.1",
+        "The Publisher shall pay the Author the following royalties: (1) 10% from sales or licenses of the original edition in any print medium."
+      ],
+      "Conditions for termination of the contract": [
+        "14.1",
+        "The Author may terminate the Agreement if the Publisher does not reply to requests for changes within the stipulated timeframe."
+      ],
+      "Distribution rights and territories": null,
+      "Confidentiality to protect sensitive information": [
+        "18.4",
+        "The Parties will not disclose the terms of this Agreement without prior written consent."
+      ],
+      "Disparaging statements and reputational risk": null,
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": [
+        "3.2",
+        "The Author shall provide reasonable marketing assistance upon request."
+      ],
+      "Publisher first refusal rights on future works": [
+        "10.1",
+        "The Author shall submit a proposal for the Next Work to the Publisher before offering it to other publishers."
+      ],
+      "Advance repayment conditions": [
+        "14.4",
+        "Upon termination by the Publisher, the Author shall repay any advances or payments."
+      ],
+      "Reversal of rights to editor": [
+        "15.1",
+        "If the Work is no longer commercially available and the Publisher does not make it available within 6 months of a written request, all rights shall revert to the Author."
+      ],
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": null
+    },
+    "contract-20.pdf": {
+      "Breach of contract": [
+        "12.2",
+        "The Publisher may terminate this Agreement for various reasons, including failure to deliver satisfactory materials, potential legal liability, market changes, or loss of the Author's professional license."
+      ],
+      "Deadlines and delay consequence": [
+        "2.2",
+        "The Author shall prepare and deliver the complete and final manuscript by December 1, 2023 (the 'Due Date')."
+      ],
+      "Copyright ownership and permissions": [
+        "1.1",
+        "The copyright and all exclusive rights shall vest initially in and shall belong to the Publisher."
+      ],
+      "Quality and standards": null,
+      "Terms on author's personal or professional conduct": [
+        "12.2",
+        "The Publisher may terminate this Agreement for various reasons, including failure to deliver satisfactory materials, potential legal liability, market changes, or loss of the Author's professional license."
+      ],
+      "Hidden or additional costs": [
+        "2.3",
+        "If the Publisher obtains permissions or pays for them, the Publisher may deduct such costs from payments due to the Author."
+      ],
+      "Non-compete agreement": [
+        "7.1",
+        "The Author shall not publish or assist in the preparation of any work that might compete with or injure the sale of the Work without the Publisher's prior written consent."
+      ],
+      "Intellectual property": [
+        "1.1",
+        "The copyright and all exclusive rights shall vest initially in and shall belong to the Publisher."
+      ],
+      "Force majeure": [
+        "15.7",
+        "Neither Party will be liable for delays or failures due to circumstances beyond their control."
+      ],
+      "Royalty payments and dispute resolution processes": [
+        "5.1",
+        "The Publisher shall pay the Author the following percentages of the Publisher's 'Net Receipts' from sales or licenses of the Work: (i) Original edition: 10% (ii) Electronic form: 10% (iii) High-discount sales (60% or more): 5% (iv) Subsidiary rights (after costs): 30%"
+      ],
+      "Conditions for termination of the contract": [
+        "12.2",
+        "The Publisher may terminate this Agreement for various reasons, including failure to deliver satisfactory materials, potential legal liability, market changes, or loss of the Author's professional license."
+      ],
+      "Distribution rights and territories": [
+        "1.1",
+        "These rights include, but are not limited to, the right to print, store, copy, publish, republish, adapt, distribute, and transmit the Work in all languages and media now known or later developed."
+      ],
+      "Confidentiality to protect sensitive information": [
+        "15.4",
+        "The Parties shall not disclose the terms of this Agreement without prior written consent."
+      ],
+      "Disparaging statements and reputational risk": null,
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": [
+        "3.2",
+        "The Author shall provide reasonable marketing assistance upon the Publisher's request."
+      ],
+      "Publisher first refusal rights on future works": null,
+      "Advance repayment conditions": null,
+      "Reversal of rights to editor": null,
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": [
+        "1.1",
+        "These rights include, but are not limited to, the right to print, store, copy, publish, republish, adapt, distribute, and transmit the Work in all languages and media now known or later developed."
+      ]
+    },
+    "contract-21.pdf": {
+      "Breach of contract": [
+        "13.1",
+        "In the event of a disagreement that interferes with publication, the Publisher may resolve the disagreement or terminate the Agreement, adjusting the Author's share of royalties accordingly."
+      ],
+      "Deadlines and delay consequence": [
+        "2.3",
+        "If the Author fails to meet requested changes within 30 days, the Publisher may terminate this Agreement or arrange for completion, deducting reasonable costs from sums due to the Author."
+      ],
+      "Copyright ownership and permissions": [
+        "1.1",
+        "All rights, title, and interest, including copyright, shall vest initially in and belong to the Publisher."
+      ],
+      "Quality and standards": null,
+      "Terms on author's personal or professional conduct": null,
+      "Hidden or additional costs": null,
+      "Non-compete agreement": [
+        "8.1",
+        "The Author shall not, without the Publisher's prior written consent, publish or permit publication of the Work or any portion thereof or any other version aimed at the same audience."
+      ],
+      "Intellectual property": [
+        "1.1",
+        "All rights, title, and interest, including copyright, shall vest initially in and belong to the Publisher."
+      ],
+      "Force majeure": [
+        "3.3",
+        "The Publisher is not obligated to publish the Work if circumstances beyond its control affect the Work's marketability or potential sales."
+      ],
+      "Royalty payments and dispute resolution processes": [
+        "5.1",
+        "The Publisher shall pay the Author the following percentages of the Publisher's \"Net Receipts\" from sales or licenses of the Work: 5.1.1 12% from sales of the original edition in print form."
+      ],
+      "Conditions for termination of the contract": [
+        "14.2",
+        "The Publisher may terminate this Agreement immediately if the Author fails to deliver satisfactory materials, if publication may result in unacceptable legal liability, or if market conditions adversely change."
+      ],
+      "Distribution rights and territories": [
+        "1.2",
+        "The Publisher holds worldwide rights to print, store, copy, publish, distribute, and transmit the Work in all media now known or later developed, in English and other languages, and to license others to do so."
+      ],
+      "Confidentiality to protect sensitive information": [
+        "17.4",
+        "The Parties agree to keep the terms of this Agreement confidential, except as necessary for professional advisors or subsidiaries."
+      ],
+      "Disparaging statements and reputational risk": null,
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": [
+        "3.2",
+        "The Author shall provide reasonable marketing assistance upon the Publisher's request."
+      ],
+      "Publisher first refusal rights on future works": null,
+      "Advance repayment conditions": null,
+      "Reversal of rights to editor": [
+        "14.3",
+        "Upon termination by either Party, the Publisher shall revert rights to the Author and remove the Author's name from listings."
+      ],
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": [
+        "1.2",
+        "The Publisher holds worldwide rights to print, store, copy, publish, distribute, and transmit the Work in all media now known or later developed, in English and other languages, and to license others to do so."
+      ]
+    },
+    "contract-22.pdf": {
+      "Breach of contract": [
+        "13.2",
+        "The Publisher may terminate this Agreement immediately by notice in writing: (i) if the Author fails to deliver complete and satisfactory materials for the Work pursuant to Paragraph 2.1 above by the Due Date or fails or refuses to make the changes requested by the Publisher pursuant to Paragraph 2.4 above."
+      ],
+      "Deadlines and delay consequence": [
+        "2.5",
+        "If the Author has not delivered complete and satisfactory materials for the Work by the Due Date, the Publisher may (i) make other arrangements to complete the Work and charge the reasonable costs of such arrangements to any sums due to the Author, or (ii) terminate this Agreement with respect to one or more of the Author and recover from the Author any monies paid to, or on behalf of, the Author in connection with the Work and in such event the Publisher shall have no further obligation or liability to the Author."
+      ],
+      "Copyright ownership and permissions": [
+        "1.1",
+        "The copyright and the full and exclusive rights comprised in the copyright, and all other right, title and interest in and to the Work and the material contained therein, shall vest initially in and shall thereafter belong to the Publisher."
+      ],
+      "Quality and standards": [
+        "2.1.3",
+        "Assume editorial responsibility for the preparation and timely submission to the Publisher of the complete final manuscript of the Work by the Due Date."
+      ],
+      "Terms on author's personal or professional conduct": null,
+      "Hidden or additional costs": [
+        "2.3",
+        "If any permissions or other materials due from the Author are furnished or paid for by the Publisher, the Publisher may withhold an amount equal to such costs from any sums due to the Author."
+      ],
+      "Non-compete agreement": [
+        "8.2",
+        "The Author shall not, without the Publisher's prior written consent, prepare or assist in the preparation of any other work with the same or substantially the same content as the Work and aimed at the same audience as the Work that might, in the Publisher's reasonable judgment, interfere with or injure the sale of the Work."
+      ],
+      "Intellectual property": [
+        "1.3",
+        "All rights in and to the 'Appearance of the Work' (which expression, for the purposes of this Agreement, includes the design and typography, paper, printing, binding, cover, jacket, and embellishments for the Work and the design, typography and layout for digital versions of the Work) and in the title, any series titles used on or in connection with the Work, including without limitation any trademark, service mark or trade dress rights, and all intellectual property rights, of whatever nature, in the Appearance of the Work and in the title, will belong to the Publisher."
+      ],
+      "Force majeure": null,
+      "Royalty payments and dispute resolution processes": [
+        "5.1",
+        "The Publisher shall pay to the Author, as a royalty, the following percentages of the Publisher's 'Net Receipts' (as defined below) from sales or licenses of the Work: (1) from sales or licenses of the original edition whether in hardcover, paperback or other print medium (the 'regular edition'): 12%"
+      ],
+      "Conditions for termination of the contract": [
+        "13.1",
+        "The Author may terminate this Agreement by written notice to the Publisher if the Publisher does not reply to the Author's request for required changes submitted pursuant to Paragraph 2.4 above."
+      ],
+      "Distribution rights and territories": [
+        "1.1",
+        "These rights include, but are not limited to, the Publisher's right, by itself or with others, throughout the world, to print, store, copy, publish, republish, adapt, distribute and transmit the Work in English and in other languages, in all media of expression now known or later developed, and to license or permit others to do so."
+      ],
+      "Confidentiality to protect sensitive information": null,
+      "Disparaging statements and reputational risk": null,
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": [
+        "3.2",
+        "The Author shall provide reasonable marketing assistance upon request of the Publisher."
+      ],
+      "Publisher first refusal rights on future works": null,
+      "Advance repayment conditions": [
+        "2.5",
+        "If the Author has not delivered complete and satisfactory materials for the Work by the Due Date, the Publisher may (i) make other arrangements to complete the Work and charge the reasonable costs of such arrangements to any sums due to the Author, or (ii) terminate this Agreement with respect to one or more of the Author and recover from the Author any monies paid to, or on behalf of, the Author in connection with the Work and in such event the Publisher shall have no further obligation or liability to the Author."
+      ],
+      "Reversal of rights to editor": [
+        "3.3",
+        "all rights in the Work granted by the Author to the Publisher hereunder will revert to the Author, and (iii) this Agreement will terminate on the date of such reversion of rights."
+      ],
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": [
+        "1.1",
+        "These rights include, but are not limited to, the Publisher's right, by itself or with others, throughout the world, to print, store, copy, publish, republish, adapt, distribute and transmit the Work in English and in other languages, in all media of expression now known or later developed, and to license or permit others to do so."
+      ]
+    },
+    "contract-23.pdf": {
+      "Breach of contract": [
+        "12.2.1",
+        "The Author fails to deliver satisfactory materials by the Due Date."
+      ],
+      "Deadlines and delay consequence": [
+        "2.3",
+        "If the Author does not make requested changes within 30 days, the Publisher may terminate this Agreement."
+      ],
+      "Copyright ownership and permissions": [
+        "1.1",
+        "The copyright and full and exclusive rights comprised in the copyright shall vest initially in and shall thereafter belong to the Publisher."
+      ],
+      "Quality and standards": [
+        "2.1.2",
+        "Review and revise the manuscript as per the Publisher's feedback, ensuring the final manuscript is satisfactory in organization, form, content, and style."
+      ],
+      "Terms on author's personal or professional conduct": [
+        "12.2.4",
+        "The Author loses their professional license due to disciplinary proceedings."
+      ],
+      "Hidden or additional costs": [
+        "2.2",
+        "If the Publisher furnishes or pays for any permissions, the Publisher may withhold an amount equal to such costs from any sums due to the Author."
+      ],
+      "Non-compete agreement": [
+        "8.2",
+        "The Author shall not prepare or assist in the preparation of any other work with substantially similar content that might interfere with the sale of the Work."
+      ],
+      "Intellectual property": [
+        "1.3",
+        "All rights in and to the 'Appearance of the Work'... shall belong to the Publisher."
+      ],
+      "Force majeure": null,
+      "Royalty payments and dispute resolution processes": [
+        "5.1.1",
+        "From sales of the original edition: 12%"
+      ],
+      "Conditions for termination of the contract": [
+        "12.1",
+        "The Author may terminate this Agreement by written notice if the Publisher does not respond to requests for changes within the Prescribed Period."
+      ],
+      "Distribution rights and territories": [
+        "1.1",
+        "The Publisher's right to... distribute, and transmit the Work in English and other languages, in all media of expression now known or later developed, and to license or permit others to do so."
+      ],
+      "Confidentiality to protect sensitive information": null,
+      "Disparaging statements and reputational risk": null,
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": [
+        "3.2",
+        "The Author shall provide reasonable marketing assistance upon request of the Publisher."
+      ],
+      "Publisher first refusal rights on future works": null,
+      "Advance repayment conditions": null,
+      "Reversal of rights to editor": null,
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": [
+        "1.1",
+        "The Publisher's right to... adapt, distribute, and transmit the Work in English and other languages, in all media of expression now known or later developed, and to license or permit others to do so."
+      ]
+    },
+    "contract-24.pdf": {
+      "Breach of contract": [
+        "13.2",
+        "The Publisher may terminate for unsatisfactory delivery, legal liability, adverse market changes, or professional misconduct by the Author."
+      ],
+      "Deadlines and delay consequence": [
+        "2.2",
+        "The Author shall deliver the complete and final materials by June 30, 2024 (the 'Due Date')."
+      ],
+      "Copyright ownership and permissions": [
+        "1.1",
+        "The Work, which includes any supplementary materials, updates, revised editions, and derivative works, shall be considered a work made for hire, with the copyright and all rights therein vesting initially and exclusively in the Publisher."
+      ],
+      "Quality and standards": [
+        "2.1",
+        "The Publisher appoints the Author to write and deliver the Work, including: i. Preparing an outline and selecting contributors. ii. Reviewing and revising content, ensuring its timely delivery."
+      ],
+      "Terms on author's personal or professional conduct": [
+        "13.2",
+        "The Publisher may terminate for unsatisfactory delivery, legal liability, adverse market changes, or professional misconduct by the Author."
+      ],
+      "Hidden or additional costs": [
+        "2.10",
+        "The Publisher covers up to 10% of the cost of Author alterations; any excess cost is the Author's responsibility."
+      ],
+      "Non-compete agreement": [
+        "8.1",
+        "The Author shall not publish or permit others to publish any work similar to the Work without the Publisher's consent."
+      ],
+      "Intellectual property": [
+        "1.1",
+        "The Work, which includes any supplementary materials, updates, revised editions, and derivative works, shall be considered a work made for hire, with the copyright and all rights therein vesting initially and exclusively in the Publisher."
+      ],
+      "Force majeure": [
+        "16.11",
+        "Force majeure events entitle a reasonable extension for performance or termination after 180 days."
+      ],
+      "Royalty payments and dispute resolution processes": [
+        "5.1",
+        "The Publisher shall pay the Author: i. 12% of Net Receipts from print editions. ii. 10% from electronic formats. iii. 5% from sales at 60% or more discount."
+      ],
+      "Conditions for termination of the contract": [
+        "13.1",
+        "The Author may terminate for lack of response as per Paragraph 2.6."
+      ],
+      "Distribution rights and territories": [
+        "1.1",
+        "These rights include, but are not limited to, the right to print, publish, distribute, adapt, and transmit the Work in all media now known or later developed and to license others to do so."
+      ],
+      "Confidentiality to protect sensitive information": [
+        "16.4",
+        "Confidentiality of the Agreement's terms must be maintained."
+      ],
+      "Disparaging statements and reputational risk": null,
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": [
+        "3.2",
+        "The Author shall assist with marketing upon request."
+      ],
+      "Publisher first refusal rights on future works": [
+        "9.1",
+        "If the Publisher wishes to publish a Revised Edition, the Author shall have the first right to prepare it."
+      ],
+      "Advance repayment conditions": [
+        "10.1",
+        "In the event of the Author's death or incapacity, the Publisher may terminate this Agreement and seek repayment of any advances."
+      ],
+      "Reversal of rights to editor": [
+        "13.3",
+        "Reversion of rights and repayment of advances apply upon termination."
+      ],
+      "Editor approval rights over cover and design": null,
+      "Translations and adaptations of the work": [
+        "1.1",
+        "These rights include, but are not limited to, the right to print, publish, distribute, adapt, and transmit the Work in all media now known or later developed and to license others to do so."
+      ]
+    },
+    "contract-25.pdf": {
+      "Breach of contract": [
+        "2(d)",
+        "Failure to comply may result in termination."
+      ],
+      "Deadlines and delay consequence": [
+        "2(a)",
+        "time being of the essence unless an extension is agreed in writing."
+      ],
+      "Copyright ownership and permissions": [
+        "1(a)",
+        "The Author assigns to the Publisher during the full term of copyright and all extensions thereof the entire copyright in the Work"
+      ],
+      "Quality and standards": [
+        "2(a)",
+        "satisfactory to the Publisher in organization, form, content, and style"
+      ],
+      "Terms on author's personal or professional conduct": null,
+      "Hidden or additional costs": [
+        "2(i)",
+        "Costs beyond this will be borne by the Author."
+      ],
+      "Non-compete agreement": [
+        "8(a)",
+        "The Author shall not publish competing works without Publisher's consent"
+      ],
+      "Intellectual property": [
+        "1(b)",
+        "All rights to the 'Appearance of the Work' ... shall belong to the Publisher."
+      ],
+      "Force majeure": [
+        "18(k)",
+        "Force majeure events may extend performance time or allow termination."
+      ],
+      "Royalty payments and dispute resolution processes": [
+        "5(a)",
+        "The Publisher shall pay the Author the following percentages of Net Receipts"
+      ],
+      "Conditions for termination of the contract": [
+        "14(a)",
+        "The Author may terminate if the Publisher does not respond to required changes."
+      ],
+      "Distribution rights and territories": null,
+      "Confidentiality to protect sensitive information": [
+        "18(d)",
+        "Confidentiality of terms is required."
+      ],
+      "Disparaging statements and reputational risk": null,
+      "Editors can audit publisher's financial records": null,
+      "Marketing and promotion": [
+        "3(b)",
+        "The Author agrees to provide reasonable marketing assistance upon request."
+      ],
+      "Publisher first refusal rights on future works": [
+        "10",
+        "The Author shall submit a proposal for the next book-length work to the Publisher before offering it to others."
+      ],
+      "Advance repayment conditions": [
+        "14(d)",
+        "Upon Publisher's termination for other reasons, the Author must repay advances"
+      ],
+      "Reversal of rights to editor": [
+        "14(c)",
+        "Upon termination by the Author or due to market conditions, rights revert to the Author."
+      ],
+      "Editor approval rights over cover and design": [
+        "3(a)",
+        "The Publisher shall consult with the Author on design but retains final decision-making."
+      ],
+      "Translations and adaptations of the work": [
+        "1(a)",
+        "adapt, distribute, and transmit the Work in English and other languages"
+      ]
+    }
+  }
+}
