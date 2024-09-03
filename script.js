@@ -180,7 +180,7 @@ $contractForm.addEventListener("submit", (event) => {
   };
   const tools = [{ type: "function", function: { name: "contract_terms", parameters: schema } }];
   const body = {
-    model: "gpt-4o",
+    model: "gpt-4o-2024-08-06",
     messages: [
       {
         role: "system",
