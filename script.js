@@ -14,7 +14,7 @@ const url = "https://llmfoundry.straive.com/login?" + new URLSearchParams({ next
 render(
   token
     ? html`<button type="submit" class="btn btn-primary mt-3">Analyze</button>`
-    : html`<a class="btn btn-primary" href="${url}">Log in to try your own images</a></p>`,
+    : html`<a class="btn btn-primary" href="${url}">Log in to try your own contracts</a></p>`,
   document.querySelector("#analyze"),
 );
 
