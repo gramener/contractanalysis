@@ -14,7 +14,7 @@ const url = "https://llmfoundry.straive.com/login?" + new URLSearchParams({ next
 render(
   token
     ? html`<button type="submit" class="btn btn-primary mt-3">Analyze</button>`
-    : html`<a class="btn btn-primary" href="${url}">Log in to try your own contracts</a></p>`,
+    : html`<a class="btn btn-primary" href="${url}">Log in to try your own contracts</a>`,
   document.querySelector("#analyze"),
 );
 
@@ -180,7 +180,7 @@ $contractForm.addEventListener("submit", (event) => {
   };
   const tools = [{ type: "function", function: { name: "contract_terms", parameters: schema } }];
   const body = {
-    model: "gpt-4o-2024-08-06",
+    model: "gpt-4o-mini",
     messages: [
       {
         role: "system",
